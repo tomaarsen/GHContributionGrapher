@@ -1,6 +1,9 @@
 [package]
 name = "gh"
+authors = ["Tom Aarsen"]
 version = "0.1.0"
+description = "A simple CLI program to graph GitHub Contributions"
+repository = "https://github.com/tomaarsen/GitHubContributionGrapher"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html

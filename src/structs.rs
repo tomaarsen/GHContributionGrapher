@@ -2,9 +2,11 @@ use ansi_term::Colour;
 use clap::Parser;
 use serde::{Deserialize, Serialize};
 
-#[derive(Parser)]
+#[derive(Parser, Debug)]
+#[clap(author, version, about)]
 pub struct Cli {
     // The GitHub user to crawl for
+    #[clap()]
     pub user: String,
 }
 
