@@ -1,7 +1,7 @@
 
 # GitHub Contribution Grapher
 A command-line program to graph GitHub Contributions, written in Rust.
-![image](https://user-images.githubusercontent.com/37621491/176433722-4d1b54d8-dbd0-4ed4-9ba9-fb846bc99dc3.png)
+![image](https://user-images.githubusercontent.com/37621491/176441393-1c7bc9b5-560b-423e-b397-bf0afa0e3db6.png)
 
 ### How to use
 #### Setting up
